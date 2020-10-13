@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
   s.name        = "jekyll-bold"
   s.summary     = "Format specified keywords bold"
-  s.version     = "0.0.1"
+  s.version     = "0.1.0"
   s.authors     = ["ijustdev"]
   s.email       = "ijustdevgc@gmail.com"
 
